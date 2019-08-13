@@ -1,0 +1,11 @@
+{
+  "name": "dat-foundation-website",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
